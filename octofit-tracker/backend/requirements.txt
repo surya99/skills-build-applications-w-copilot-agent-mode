@@ -1,1 +1,4 @@
+# Added required libraries for the OctoFit Tracker backend
 Django>=4.0,<5.0
+djangorestframework>=3.12,<4.0
+pymongo>=3.11,<4.0
